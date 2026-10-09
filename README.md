@@ -2,7 +2,7 @@
 
 <img src="https://github.com/adityatygi/Meridian---AI-Market-Research-Strategy-Engine/raw/main/assets/Meridian%20Logo.png" alt="Meridian Logo" width="180"/>
 
-# Meridian - AI Market Research & Strategy Engine
+# MCkinsey - AI Market Research & Strategy Engine
 
 ### 🚀 View Live Application
 
