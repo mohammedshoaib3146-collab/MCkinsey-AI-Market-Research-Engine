@@ -6,7 +6,7 @@
 
 ### 🚀 View Live Application
 
-**https://meridian-fronted-resarch-engine.vercel.app/**
+**https://mc-kinsey-ai-market-research-strate.vercel.app/login**
 
 ### An autonomous multi-agent system that turns a research brief into a fully cited, consulting-grade market report
 
