@@ -691,12 +691,12 @@ This project was developed collaboratively by:
 
 | Contributor      | Role / Contribution |
 | ---------------- | ------------------- |
-| **Aryan Roy (GR)**   | Frontend & UX/UI                               |
-| **Deepak Chauhan**   | Authentication & API Communication             |
-| **Vikram Kumar R.**  | Backend & API Layer                            |
-| **Prajwal Girade**   | AI Agents 1–3: Planning, Research & Extraction |
-| **Priyanshu Singh**  | AI Agents 4–5: Validation & Citation           |
-| **Aditya Tyagi**     | AI Agents 6–7: Report & Linker                 |
+| **Shivam Tyagi**   | Frontend & UX/UI                               |
+| **Jignesh**   | Authentication & API Communication             |
+| **Shaik Anila**  | Backend & API Layer                            |
+| **Archana singh**   | AI Agents 1–3: Planning, Research & Extraction |
+| **mayuyri Mundra**  | AI Agents 4–5: Validation & Citation           |
+| **Swapnil**     | AI Agents 6–7: Report & Linker                 |
 | **Mohammed Shoaib** | Database & Persistence  
 
 All contributors participated in the development, testing, documentation, and refinement of the project.
