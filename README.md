@@ -697,7 +697,7 @@ This project was developed collaboratively by:
 | **Prajwal Girade**   | AI Agents 1–3: Planning, Research & Extraction |
 | **Priyanshu Singh**  | AI Agents 4–5: Validation & Citation           |
 | **Aditya Tyagi**     | AI Agents 6–7: Report & Linker                 |
-| **Shashank Meshram** | Database & Persistence  
+| **Mohammed Shoaib** | Database & Persistence  
 
 All contributors participated in the development, testing, documentation, and refinement of the project.
 
