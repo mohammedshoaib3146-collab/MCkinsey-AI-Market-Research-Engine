@@ -695,8 +695,8 @@ This project was developed collaboratively by:
 | **Jignesh**   | Authentication & API Communication             |
 | **Shaik Anila**  | Backend & API Layer                            |
 | **Archana singh**   | AI Agents 1–3: Planning, Research & Extraction |
-| **mayuyri Mundra**  | AI Agents 4–5: Validation & Citation           |
-| **Swapnil**     | AI Agents 6–7: Report & Linker                 |
+| **Mayuri Mundra**  | AI Agents 4–5: Validation & Citation           |
+| **Swapnil Pathare**     | AI Agents 6–7: Report & Linker                 |
 | **Mohammed Shoaib** | Database & Persistence  
 
 All contributors participated in the development, testing, documentation, and refinement of the project.
