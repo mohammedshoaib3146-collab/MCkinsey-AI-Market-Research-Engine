@@ -7,6 +7,9 @@
 ### 🚀 View Live Application
 
 **https://mc-kinsey-ai-market-research-strate.vercel.app/login**
+### 🎥 Project Demonstration Video
+
+[Watch the Complete Project Demo](https://drive.google.com/file/d/1ZP3ZLA2f05kv-S4srg1T0FkpuISVL06j/view?usp=sharing)
 
 ### An autonomous multi-agent system that turns a research brief into a fully cited, consulting-grade market report
 
