@@ -86,13 +86,13 @@ Traditional market research can require significant manual effort across multipl
 * Organizing findings into a structured report
 * Maintaining a clear citation trail for important claims
 
-Meridian automates this workflow through a multi-agent AI pipeline while keeping the research process evidence-grounded and traceable.
+MCKinsey automates this workflow through a multi-agent AI pipeline while keeping the research process evidence-grounded and traceable.
 
 <br/>
 
 ## Product Goal
 
-The goal of Meridian is to provide an AI-powered research assistant that transforms a natural-language research brief into a structured, evidence-grounded market research report.
+The goal of MCkinsey is to provide an AI-powered research assistant that transforms a natural-language research brief into a structured, evidence-grounded market research report.
 
 The system combines:
 
